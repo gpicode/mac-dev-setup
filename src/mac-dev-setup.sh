@@ -86,19 +86,20 @@ brew install --cask font-jetbrains-mono
 brew install --cask google-chrome
 brew install --cask firefox
 brew install --cask microsoft-edge
+brew install --cask brave-browser
 
 # Music / Video
-brew install --cask spotify
+# brew install --cask spotify
 brew install --cask vlc
 
 # Productivity
-brew install --cask evernote                                                                            # cloud note
+# brew install --cask evernote                                                                            # cloud note
 brew install --cask kap                                                                                 # video screenshot
-brew install --cask rectangle                                                                           # manage windows
+# brew install --cask rectangle                                                                           # manage windows
 
 # Communication
 brew install --cask slack
-brew install --cask whatsapp
+# brew install --cask whatsapp
 
 # Dev tools
 brew install --cask ngrok                                                                               # tunnel localhost over internet.
