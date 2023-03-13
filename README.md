@@ -8,7 +8,7 @@ This script allow you to install all the tools you need for setting up your dev 
 
 # Launch installation
 ```shell
-curl https://raw.githubusercontent.com/thomaspoignant/mac-dev-setup/master/src/mac-dev-setup.sh | bash
+curl https://raw.githubusercontent.com/gpicode/mac-dev-setup/master/src/mac-dev-setup.sh | bash
 ```
 
 # What does it install?
@@ -190,13 +190,6 @@ It will install all this tools:
     The Collaboration Hub.
     I am not sure I need to present what is slack.
 
-  - ### [Spotify](http://spotify.com/)
-    Music streaming.
-
-  - ### [Whatsapp](https://www.whatsapp.com/)
-    Messaging system.
-    I am not sure I need to present what is whatsapp.
-
   - ### [VLC](https://www.videolan.org)
     Free and open source cross-platform multimedia player that plays most multimedia files, and various streaming protocols.
 
@@ -207,6 +200,7 @@ It will install all this tools:
   - [Google Chrome](https://www.google.com/chrome/)
   - [Mozilla Firefox](https://www.mozilla.org/firefox/)
   - [Microsoft Edge](https://www.microsoft.com/edge)
+  - [Brave](https://brave.com)
 
 # How can I contribute?
 
